@@ -8,6 +8,21 @@
 
 I’m interested in **software development, artificial intelligence, machine learning, and healthcare technology**, with a focus on turning ideas into practical solutions.
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/soniyakuchekar71/soniyakuchekar71/main/dist/pet.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/soniyakuchekar71/soniyakuchekar71/main/dist/pet-light.svg">
+
+  <img
+    alt="my github pet"
+    src="https://raw.githubusercontent.com/soniyakuchekar71/soniyakuchekar71/main/dist/pet.svg"
+    width="100%">
+</picture>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soniyakuchekar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soniya26ias@gmail.com) 
 
