@@ -1,12 +1,6 @@
-# Hi, I'm Soniya 👋
-
-🎓 **B.Tech CSE (Health Informatics) Student @ VIT Bhopal University**
-📅 **Graduating in 2027**
-🐍 **Python Developer | AI/ML Enthusiast**
-💻 **Full-Stack Development | Healthcare Technology**
-🚀 Building projects and solving problems while continuously learning and growing.
-
-I’m interested in **software development, artificial intelligence, machine learning, and healthcare technology**, with a focus on turning ideas into practical solutions.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Soniya;HealthCare+Technology;Python+Developer;AI+%7C+ML+Enthusiast" />
+</h1>
 
 <picture>
   <source
